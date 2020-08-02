@@ -14,3 +14,4 @@ In challenge 1, a starting code for a marketing agency was given, and the task w
 
 ## Screenshots
 
+![First Screenshot](img src=assets\images\readme-screenshot1.png)
