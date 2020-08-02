@@ -17,3 +17,5 @@ In challenge 1, a starting code for a marketing agency was given, and the task w
 ![](assets/images/readme-screenshot1.png)
 ![](assets/images/readme-screenshot2.png)
 
+## URL
+https://thomasnguyen546.github.io/Challenge1/
